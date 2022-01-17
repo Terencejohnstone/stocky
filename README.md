@@ -1,0 +1,2 @@
+# stocky
+Analyze stock data
